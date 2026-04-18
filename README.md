@@ -1,9 +1,6 @@
 ## Hi, I'm Gabriel! 👋
 
-⚡ I’m currently exploring Go and its extraordinary technologies, like concurrency and networking capabilities.
+⚡Go developer focused on systems, concurrency, and networking.
+Building learning-driven projects to understand how things work under the hood.
 
-🎮 In my spare time you can also find me playing and [developing games](https://thegabet.itch.io/).
-
-<!--
-📫 How to reach me: ...
--->
+🎮 Exploring [game development](https://thegabet.itch.io/) in my spare time.
